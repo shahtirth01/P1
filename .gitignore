@@ -1,0 +1,20 @@
+# data and logs (never commit)
+data/
+logs/
+
+# secrets
+.kaggle/
+kaggle.json
+.env
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+
+# editor / OS
+.vscode/
+.DS_Store
